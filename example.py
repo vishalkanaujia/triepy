@@ -1,7 +1,7 @@
-import trie
+from trie import *
 
 # Create the tree
-mytrie = trie.Trie()
+mytrie = Trie()
 
 # Get the input ready
 s = "The quick brown fox jumps over the lazy dog"
